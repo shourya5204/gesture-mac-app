@@ -23,7 +23,7 @@ Create and activate a virtual environment, then install dependencies and run:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install pyinstaller rumps opencv-contrib-python pyobjc-framework-Vision pyobjc-framework-Quartz
+pip install -r requirements.txt
 python menu_bar.py
 ```
 

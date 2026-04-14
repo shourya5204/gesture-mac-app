@@ -1,0 +1,6 @@
+opencv-contrib-python
+pyinstaller
+pyobjc-framework-Quartz
+pyobjc-framework-Vision
+rumps
+SpeechRecognition
